@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-
 /**
- *main - prints the size of various types
- *Return - 0
+ * main - prints the size of various types
+ *Description: produce the exact same output
+ * Return: 0 if exited properly, non-zero otherwise
  */
+
 
 int main(void)
 {
