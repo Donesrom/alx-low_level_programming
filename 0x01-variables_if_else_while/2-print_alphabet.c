@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
-*main- program that prints the alphabet in lowercase
-*Description : You can only use the putchar
-*return: 0
+ *main- assign a random number to the variable n
+* Return: Always 0 (Success)
 */
 
 int main(void)
-
 {
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
