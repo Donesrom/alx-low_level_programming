@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <stio.h>
+#include <stdio.h>
 
 /**
  *main-  a program that prints all single digit numbers
