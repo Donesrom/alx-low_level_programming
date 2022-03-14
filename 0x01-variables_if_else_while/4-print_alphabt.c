@@ -18,6 +18,6 @@ if (ch != 'e' && ch != 'q')
 putchar (ch);
 ch++;
 }
-putchar ('\n);
+putchar ('\n');
 return (0);
 }
