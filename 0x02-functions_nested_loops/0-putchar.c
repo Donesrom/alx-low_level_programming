@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main a program that prints _putchar,
+* main - a program that prints _putchar,
 *followed by a new line
 * Return: Always O (Success)
 */
