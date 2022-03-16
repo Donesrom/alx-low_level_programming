@@ -1,5 +1,6 @@
-#include <main.h>
 #include <stdio.h>
+
+
 /**
  * main -  function that prints the alphabet
  * followed by a new line
