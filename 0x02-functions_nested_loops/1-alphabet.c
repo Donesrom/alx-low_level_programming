@@ -2,7 +2,7 @@
 
 
 /**
- * main -  function that prints the alphabet
+ * main -function that prints the alphabet
  * followed by a new line
  * Return: Always 0 (Success)
  */
