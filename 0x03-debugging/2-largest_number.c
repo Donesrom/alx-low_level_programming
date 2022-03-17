@@ -4,6 +4,9 @@
 
 /**
 *largest_number - largest of three integers
+* @a: first integer
+* @b: second integer
+* @c: third integer
 * Return: 0
 */
 
