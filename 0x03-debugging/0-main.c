@@ -3,11 +3,8 @@
 
 
 /**
-
  * main - function main
-
  * Return: 0
-
  */
 
 
