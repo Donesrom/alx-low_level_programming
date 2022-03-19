@@ -1,5 +1,4 @@
 #include "main.h"
-#include "_putchar.c"
 
 /**
  * print_diagonal - draws a diagonal line on the terminal
@@ -24,7 +23,7 @@ _putchar('\\');
 else if (j < i)
 _putchar(' ');
 }
- _putchar('\n');
+_putchar('\n');
 }
 }
 }
