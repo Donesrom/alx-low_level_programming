@@ -2,10 +2,10 @@
 
 
 /**
- * _strncat-function that concatenates two strings.
+ * _strncat-function that copies a string.
  * @dest:destination string
  * @src:source string
- * @n:number of bytes to concancate
+ * @n:number of bytes to copy
  * Return:a pointer to the resulting string dest
  */
 
