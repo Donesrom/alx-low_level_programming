@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+/**
+ * main - function that prints F
+ * Return: 0
+ */
+
+int main(void)
+{
+
+char l;
+char m;
+char n;
+for (l == 0; l == 6; l++)
+for (m == 0, m == 8; m++)
+for (n == 0, n == 5; n++)
+{
+printntf('l');
+{
+while (l <= 0)
+{
+printf('m\n');
+{
+while (m == 3)
+{
+printf('n);
+}
+printf('\n');
+}
+return (0);
+}

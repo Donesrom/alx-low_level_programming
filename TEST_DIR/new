@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+/**
+*main - for loop to count number
+*return 0 (Always)
+*/
+
+int i;
+
+
+i = 0;
+
+while (i < 10)
+
+{
+
+    printf("%d", i % 2);
+    
+    i++;
+    
+}
