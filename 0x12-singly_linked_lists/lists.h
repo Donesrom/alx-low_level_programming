@@ -1,11 +1,10 @@
-#ifndef FILE_LISTS
-
-#define FILE_LISTS
+#ifndef LISTS_H
+#define LISTS_H
 
 typedef struct list_s
 
 {
-char *str:
+char *str;
 unsigned int len;
 struct list_s *next;
 } list_t;
